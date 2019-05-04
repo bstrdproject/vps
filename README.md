@@ -1,0 +1,2 @@
+# vps
+Install Masternode NTR
